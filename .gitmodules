@@ -151,3 +151,12 @@
 [submodule "yasnippet"]
 	path = yasnippet
 	url = https://github.com/joaotavora/yasnippet.git
+[submodule "emacsmirror-mirror"]
+	path = emacsmirror-mirror
+	url = https://github.com/emacs-straight/emacsmirror-mirror.git
+[submodule "gnu-elpa-mirror"]
+	path = gnu-elpa-mirror
+	url = https://github.com/emacs-straight/gnu-elpa-mirror.git
+[submodule "melpa"]
+	path = melpa
+	url = https://github.com/melpa/melpa.git
