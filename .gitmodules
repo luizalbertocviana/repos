@@ -160,3 +160,6 @@
 [submodule "melpa"]
 	path = melpa
 	url = https://github.com/melpa/melpa.git
+[submodule "emacs-libvterm"]
+	path = emacs-libvterm
+	url = https://github.com/akermu/emacs-libvterm.git
