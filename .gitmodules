@@ -163,3 +163,6 @@
 [submodule "emacs-libvterm"]
 	path = emacs-libvterm
 	url = https://github.com/akermu/emacs-libvterm.git
+[submodule "projectile"]
+	path = projectile
+	url = https://github.com/bbatsov/projectile.git
