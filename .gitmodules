@@ -166,3 +166,9 @@
 [submodule "projectile"]
 	path = projectile
 	url = https://github.com/bbatsov/projectile.git
+[submodule "pkg-info"]
+	path = pkg-info
+	url = https://github.com/emacsorphanage/pkg-info.git
+[submodule "epl"]
+	path = epl
+	url = https://github.com/cask/epl.git
