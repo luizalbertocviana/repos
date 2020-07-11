@@ -172,3 +172,6 @@
 [submodule "epl"]
 	path = epl
 	url = https://github.com/cask/epl.git
+[submodule "evil-goggles"]
+	path = evil-goggles
+	url = https://github.com/edkolev/evil-goggles.git
