@@ -175,3 +175,6 @@
 [submodule "evil-goggles"]
 	path = evil-goggles
 	url = https://github.com/edkolev/evil-goggles.git
+[submodule "company-fish"]
+	path = company-fish
+	url = https://github.com/CeleritasCelery/company-fish.git
