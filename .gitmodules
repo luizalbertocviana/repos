@@ -178,3 +178,9 @@
 [submodule "company-fish"]
 	path = company-fish
 	url = https://github.com/CeleritasCelery/company-fish.git
+[submodule "popup-el"]
+	path = popup-el
+	url = https://github.com/auto-complete/popup-el.git
+[submodule "google-translate"]
+	path = google-translate
+	url = https://github.com/atykhonov/google-translate.git
