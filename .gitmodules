@@ -184,3 +184,6 @@
 [submodule "google-translate"]
 	path = google-translate
 	url = https://github.com/atykhonov/google-translate.git
+[submodule "key-chord"]
+	path = key-chord
+	url = https://github.com/emacsorphanage/key-chord.git
