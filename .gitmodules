@@ -187,3 +187,6 @@
 [submodule "key-chord"]
 	path = key-chord
 	url = https://github.com/emacsorphanage/key-chord.git
+[submodule "julia-emacs"]
+	path = julia-emacs
+	url = https://github.com/JuliaEditorSupport/julia-emacs.git
