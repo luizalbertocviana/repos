@@ -190,3 +190,6 @@
 [submodule "julia-emacs"]
 	path = julia-emacs
 	url = https://github.com/JuliaEditorSupport/julia-emacs.git
+[submodule "cmake"]
+	path = cmake
+	url = https://gitlab.kitware.com/cmake/cmake.git
