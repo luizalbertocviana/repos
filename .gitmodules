@@ -193,3 +193,6 @@
 [submodule "cmake"]
 	path = cmake
 	url = https://gitlab.kitware.com/cmake/cmake.git
+[submodule "dante"]
+	path = dante
+	url = https://github.com/jyp/dante.git
