@@ -202,3 +202,6 @@
 [submodule "flycheck"]
 	path = flycheck
 	url = https://github.com/flycheck/flycheck.git
+[submodule "haskell-mode"]
+	path = haskell-mode
+	url = https://github.com/haskell/haskell-mode.git
