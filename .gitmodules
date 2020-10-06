@@ -196,3 +196,6 @@
 [submodule "dante"]
 	path = dante
 	url = https://github.com/jyp/dante.git
+[submodule "f.el"]
+	path = f.el
+	url = https://github.com/rejeep/f.el.git
