@@ -208,3 +208,6 @@
 [submodule "lcr"]
 	path = lcr
 	url = https://github.com/jyp/lcr.git
+[submodule "emacs-racer"]
+	path = emacs-racer
+	url = https://github.com/racer-rust/emacs-racer.git
