@@ -220,3 +220,6 @@
 [submodule "markdown-mode"]
 	path = markdown-mode
 	url = https://github.com/jrblevin/markdown-mode.git
+[submodule "rustic"]
+	path = rustic
+	url = https://github.com/brotzeit/rustic.git
