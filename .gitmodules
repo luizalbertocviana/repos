@@ -223,3 +223,6 @@
 [submodule "rustic"]
 	path = rustic
 	url = https://github.com/brotzeit/rustic.git
+[submodule "spinner"]
+	path = spinner
+	url = https://github.com/emacs-straight/spinner.git
