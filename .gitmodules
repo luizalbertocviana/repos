@@ -226,3 +226,6 @@
 [submodule "spinner"]
 	path = spinner
 	url = https://github.com/emacs-straight/spinner.git
+[submodule "xterm-color"]
+	path = xterm-color
+	url = https://github.com/atomontage/xterm-color.git
