@@ -235,3 +235,6 @@
 [submodule "lsp-mode"]
 	path = lsp-mode
 	url = https://github.com/emacs-lsp/lsp-mode.git
+[submodule "lsp-haskell"]
+	path = lsp-haskell
+	url = https://github.com/emacs-lsp/lsp-haskell.git
