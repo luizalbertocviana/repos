@@ -241,3 +241,6 @@
 [submodule "lsp-ui"]
 	path = lsp-ui
 	url = https://github.com/emacs-lsp/lsp-ui.git
+[submodule "yasnippet-snippets"]
+	path = yasnippet-snippets
+	url = https://github.com/AndreaCrotti/yasnippet-snippets.git
