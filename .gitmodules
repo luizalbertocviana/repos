@@ -238,3 +238,6 @@
 [submodule "lsp-haskell"]
 	path = lsp-haskell
 	url = https://github.com/emacs-lsp/lsp-haskell.git
+[submodule "lsp-ui"]
+	path = lsp-ui
+	url = https://github.com/emacs-lsp/lsp-ui.git
