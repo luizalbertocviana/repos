@@ -232,3 +232,6 @@
 [submodule "hydra"]
 	path = hydra
 	url = https://github.com/abo-abo/hydra.git
+[submodule "lsp-mode"]
+	path = lsp-mode
+	url = https://github.com/emacs-lsp/lsp-mode.git
